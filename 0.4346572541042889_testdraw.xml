@@ -1,0 +1,10 @@
+<paint>
+<RoundRectangle id="eg.edu.alexu.csd.oop.draw.RoundRectangle">
+<Length>0.0</Length>
+<ArcWidth>0.0</ArcWidth>
+<ArcLength>0.0</ArcLength>
+<Width>0.0</Width>
+</RoundRectangle>
+<DummyShape id="eg.edu.alexu.csd.oop.test.DummyShape">
+</DummyShape>
+</paint>
